@@ -1,4 +1,4 @@
-# This program opens, create, read, and close text files on a Windows OS
+# This program opens, creates, reads, and closes text files on a Windows OS
 # print message 
 print("Welcome to Python file handler for Windows OS")
 
