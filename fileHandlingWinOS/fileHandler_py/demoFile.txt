@@ -1,0 +1,7 @@
+this is a text file created for demonstrating Python file handling operations in Windows OS
+
+line 1
+line 2
+line 3
+line 4
+line 5
