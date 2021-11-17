@@ -14,7 +14,7 @@ print(f.read())
 # close the file
 f.close()
 
-# create a new file, x-returns an error if already exist, w-overwrite context, a- append context
+# create a new file, x-returns an error if already exist, w-overwrite content, a- append content
 f2 = open("myfile.txt", "w")
 f2.write("new text file contents go here")
 f2.close()
