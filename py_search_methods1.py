@@ -1,4 +1,4 @@
-# This program is demonstrate search alogrithms in Python based on on line article
+# This program demonstrates search alogrithms in Python based on online articles
 # https://stackabuse.com/search-algorithms-in-python/
 # https://www.w3schools.com/python/module_random.asp
 
